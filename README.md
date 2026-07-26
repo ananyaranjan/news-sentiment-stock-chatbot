@@ -1,4 +1,4 @@
-# finbert-stock-prediction-chatbot
+# news-sentiment-stock-chatbot
 LLM-powered financial chatbot combining FinBERT sentiment analysis, historical financial news, and live Yahoo Finance data for sentiment-driven stock forecasting using Groq and OpenRouter.
 
 # News Sentiment-Driven Stock Prediction Chatbot
